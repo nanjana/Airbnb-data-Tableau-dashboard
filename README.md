@@ -10,7 +10,7 @@ The Tableau dashboard provides a visual representation of the data, allowing use
 
 Here’s a preview of the Excel VBA healthcare dashboard:
 
-![Dashboard Screenshot](tableau_dashboard.png)
+![Dashboard Screenshot](Airbnb_dashboard.png)
 
 ## Project Features
 
@@ -43,5 +43,5 @@ Airbnb-Tableau-Dashboard/
 ├── README.md                             # Project documentation (this file)
 ```
 ## Acknowledgements
-Kaggle: Special thanks to Kaggle for providing the dataset used in this project.
-Tableau: Thanks to Tableau for offering a powerful tool to visualize and explore the data.
+- Kaggle: Special thanks to Kaggle for providing the dataset used in this project.
+- Tableau: Thanks to Tableau for offering a powerful tool to visualize and explore the data.
